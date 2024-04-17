@@ -54,6 +54,10 @@ Github Copilot 首页：https://github.com/features/copilot
 
 Github Copilot Chat： 当前在 Visual Studio Code、Visual Studio 和 IDE（beta 版本）的 JetBrains 套件中受到支持。
 
+# 百度 文言一心
+
+CHAT页: https://yiyan.baidu.com/
+
 # Midjourney
 
 AI绘画头部厂商，基础是[每月10美金](https://docs.midjourney.com/docs/plans)
