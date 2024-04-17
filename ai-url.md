@@ -31,6 +31,21 @@ Anthropic chat: https://claude.ai/
 
 Anthropic API: https://console.anthropic.com/
 
+# 微软 AI
+
+由微软是OpenAI最大投资者以及最重要的合作伙伴，故其很多产品都整合了OpenAI的技术。如：
+
+Microsoft AI web 应用：
+  - 从 BingAI 更名为 Microsoft Copilot Chat: https://www.bing.com/chat
+  - Bing Deep search(GPT-Powered): https://www.bing.com/search?q=Stack
+  - NoteBook: https://www.bing.com/chat?q=Microsoft+Copilot&FORM=hpcodx&showntbk=1
+
+Microsoft Azure AI Services: https://azure.microsoft.com/en-us/products/ai-services/
+  - Azure AI Studio: https://ai.azure.com/
+    
+Microsoft Azure OpenAI Service: https://azure.microsoft.com/en-us/products/ai-services/openai-service/
+  - Azure OpenAI Studio: https://oai.azure.com/portal
+
 # Github Copilot
 
 Copilot是 Github 的人工智能开发工具，适合编程工作人员。通过抓包，发现 Github Copilot Chat 底层是调用 OpenAI 的 ChatGPT 接口。
@@ -57,6 +72,27 @@ Stable Diffusion web界面：https://github.com/AUTOMATIC1111/stable-diffusion-w
 小白版基于开源项目Stable Diffusion WebUI制作的整合版：https://pan.quark.cn/s/2c832199b09b
 
 模型社区 C站：https://civitai.com
+
+# suno.ai
+
+文本生成音乐的头部AI模型
+
+首页: https://suno.com
+
+# OpenAI Sora
+文本生成视频AI模型，暂未开放
+
+Sora 首页: https://openai.com/sora
+
+Sora 体验: https://openai.com/research/video-generation-models-as-world-simulators
+
+Sora 申请内测: https://openai.com/form/red-teaming-network (仅面向红队测试人员)
+
+
+
+
+
+
 
 
 
